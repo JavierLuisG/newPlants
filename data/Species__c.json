@@ -1,0 +1,29 @@
+{
+  "records": [
+    {
+      "attributes": {
+        "type": "Species__c",
+        "referenceId": "Species__cRef1"
+      },
+      "Description__c": "Conocida por sus propiedades medicinales y aplicaciones para la piel",
+      "Ideal_Max_Temperature__c": 35,
+      "Ideal_Min_Temperature__c": 15,
+      "Image_URL__c": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgdFJQP8DlJHJgHwZoLierRAuF5MJlMCg1NA&usqp=CAU",
+      "Light_Notes__c": "Mantener al aire libre con luz media",
+      "Light__c": "Full Sun;Shade;Indirect;Direct",
+      "Location__c": "Outdoors",
+      "Name": "Alore Vera",
+      "Propagation__c": "Division;Cuttings (esquejes);Graftin (injertos)",
+      "Pulverization__c": false,
+      "Recommended_Fertilizer__c": null,
+      "Soil__c": null,
+      "Summer_Fertilization_Frequency__c": "Monthly",
+      "Summering_Watering_Frequency__c": "Weekly",
+      "Temperature_Notes__c": "Temperatura promedio de 27 grados",
+      "Type__c": "Edible",
+      "Watering_Notes__c": null,
+      "Winter_Fertilization_Frequency__c": "Every Three Months",
+      "Winter_Watering_Frequency__c": "Every other week"
+    }
+  ]
+}

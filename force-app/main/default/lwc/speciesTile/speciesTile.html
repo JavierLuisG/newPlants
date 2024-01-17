@@ -5,6 +5,16 @@
     <!-- lo que va en el cuerpo de la tarjeta es lo que no va en ningun slot-->
     <!-- body start -->
     <p class="slds-var-p-horizontal_small">{specie.Description}</p>
+    <!--
+        alt por el tema de accesibilidad 
+        class -> permite alinear los elementos de forma absoluta en el centro
+    -->
+    <img
+      class="specie slds-align_absolute-center slds-var-m-around_medium"
+      src={specie.Image_URL__c}
+      alt={specie.Name}
+    />
+    <p class="slds-var-p-horizontal_small">{specie.Location__c}</p>
     <!-- body end -->
   </lightning-card>
 </template>
